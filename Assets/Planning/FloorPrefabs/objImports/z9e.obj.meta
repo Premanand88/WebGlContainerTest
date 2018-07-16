@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 2325ee41b256ec646b2e1de6abb55634
+timeCreated: 1528390634
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 3dstylish01
+    100002: 3dstylish02
+    100004: 3dstylish03
+    100006: 3dstylish04
+    100008: 3dstylish05
+    100010: 3dstylish06
+    100012: 3dstylish07
+    100014: 3dstylish08
+    100016: 3dstylish09
+    100018: 3dstylish10
+    100020: 3dstylish11
+    100022: 3dstylish12
+    100024: 3dstylish13
+    100026: 3dstylish14
+    100028: 3dstylish15
+    100030: 3dstylish16
+    100032: 3dstylish17
+    100034: 3dstylish18
+    100036: 3dstylish19
+    100038: //RootNode
+    400000: 3dstylish01
+    400002: 3dstylish02
+    400004: 3dstylish03
+    400006: 3dstylish04
+    400008: 3dstylish05
+    400010: 3dstylish06
+    400012: 3dstylish07
+    400014: 3dstylish08
+    400016: 3dstylish09
+    400018: 3dstylish10
+    400020: 3dstylish11
+    400022: 3dstylish12
+    400024: 3dstylish13
+    400026: 3dstylish14
+    400028: 3dstylish15
+    400030: 3dstylish16
+    400032: 3dstylish17
+    400034: 3dstylish18
+    400036: 3dstylish19
+    400038: //RootNode
+    2100000: 3dstylish01Mat
+    2100002: 3dstylish02Mat
+    2100004: 3dstylish03Mat
+    2100006: 3dstylish04Mat
+    2100008: 3dstylish05Mat
+    2100010: 3dstylish06Mat
+    2100012: 3dstylish07Mat
+    2100014: 3dstylish08Mat
+    2100016: 3dstylish09Mat
+    2100018: 3dstylish10Mat
+    2100020: 3dstylish11Mat
+    2100022: 3dstylish12Mat
+    2100024: 3dstylish13Mat
+    2100026: 3dstylish14Mat
+    2100028: 3dstylish15Mat
+    2100030: 3dstylish16Mat
+    2100032: 3dstylish17Mat
+    2100034: 3dstylish18Mat
+    2100036: 3dstylish19Mat
+    2300000: 3dstylish01
+    2300002: 3dstylish02
+    2300004: 3dstylish03
+    2300006: 3dstylish04
+    2300008: 3dstylish05
+    2300010: 3dstylish06
+    2300012: 3dstylish07
+    2300014: 3dstylish08
+    2300016: 3dstylish09
+    2300018: 3dstylish10
+    2300020: 3dstylish11
+    2300022: 3dstylish12
+    2300024: 3dstylish13
+    2300026: 3dstylish14
+    2300028: 3dstylish15
+    2300030: 3dstylish16
+    2300032: 3dstylish17
+    2300034: 3dstylish18
+    2300036: 3dstylish19
+    3300000: 3dstylish01
+    3300002: 3dstylish02
+    3300004: 3dstylish03
+    3300006: 3dstylish04
+    3300008: 3dstylish05
+    3300010: 3dstylish06
+    3300012: 3dstylish07
+    3300014: 3dstylish08
+    3300016: 3dstylish09
+    3300018: 3dstylish10
+    3300020: 3dstylish11
+    3300022: 3dstylish12
+    3300024: 3dstylish13
+    3300026: 3dstylish14
+    3300028: 3dstylish15
+    3300030: 3dstylish16
+    3300032: 3dstylish17
+    3300034: 3dstylish18
+    3300036: 3dstylish19
+    4300000: 3dstylish01
+    4300002: 3dstylish02
+    4300004: 3dstylish03
+    4300006: 3dstylish04
+    4300008: 3dstylish05
+    4300010: 3dstylish06
+    4300012: 3dstylish07
+    4300014: 3dstylish08
+    4300016: 3dstylish09
+    4300018: 3dstylish10
+    4300020: 3dstylish11
+    4300022: 3dstylish12
+    4300024: 3dstylish13
+    4300026: 3dstylish14
+    4300028: 3dstylish15
+    4300030: 3dstylish16
+    4300032: 3dstylish17
+    4300034: 3dstylish18
+    4300036: 3dstylish19
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

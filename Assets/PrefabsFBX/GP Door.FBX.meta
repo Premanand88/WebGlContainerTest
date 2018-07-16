@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: a7ba90c1da33f38498468627b5df8673
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: handles004
+    100004: handles005
+    100006: HC Wall Segemt009
+    100008: HC Wall Segemt010
+    100010: HC Wall Segemt011
+    100012: HC Wall Segemt012
+    100014: HC Wall Segemt013
+    100016: HC Wall Segemt014
+    100018: HC Wall Segemt015
+    100020: HC Wall Segemt016
+    400000: //RootNode
+    400002: handles004
+    400004: handles005
+    400006: HC Wall Segemt009
+    400008: HC Wall Segemt010
+    400010: HC Wall Segemt011
+    400012: HC Wall Segemt012
+    400014: HC Wall Segemt013
+    400016: HC Wall Segemt014
+    400018: HC Wall Segemt015
+    400020: HC Wall Segemt016
+    2100000: Container_MAT
+    2100002: Container_rods_MAT
+    2300000: handles004
+    2300002: handles005
+    2300004: HC Wall Segemt009
+    2300006: HC Wall Segemt010
+    2300008: HC Wall Segemt011
+    2300010: HC Wall Segemt012
+    2300012: HC Wall Segemt013
+    2300014: HC Wall Segemt014
+    2300016: HC Wall Segemt015
+    2300018: HC Wall Segemt016
+    3300000: handles004
+    3300002: handles005
+    3300004: HC Wall Segemt009
+    3300006: HC Wall Segemt010
+    3300008: HC Wall Segemt011
+    3300010: HC Wall Segemt012
+    3300012: HC Wall Segemt013
+    3300014: HC Wall Segemt014
+    3300016: HC Wall Segemt015
+    3300018: HC Wall Segemt016
+    4300000: HC Wall Segemt009
+    4300002: HC Wall Segemt010
+    4300004: HC Wall Segemt011
+    4300006: handles005
+    4300008: HC Wall Segemt012
+    4300010: HC Wall Segemt013
+    4300012: HC Wall Segemt014
+    4300014: HC Wall Segemt015
+    4300016: handles004
+    4300018: HC Wall Segemt016
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

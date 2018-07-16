@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: b60e08ef947882148b5c6e1495345d9a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box16920
+    100002: Box16923
+    100004: Box16924
+    100006: Box16925
+    100008: Box16926
+    100010: Box16927
+    100012: Box16928
+    100014: Box16932
+    100016: Box16933
+    100018: Box16934
+    100020: Box16935
+    100022: Box16936
+    100024: Box16937
+    100026: Circle160
+    100028: Circle161
+    100030: Group18711
+    100032: Group18712
+    100034: Line2092
+    100036: Line2094
+    100038: //RootNode
+    100040: Object
+    100042: Object1256
+    100044: peregorodk
+    100046: steklo_1
+    100048: steklo_2
+    100050: steklo_dv0
+    100052: steklo_dve
+    400000: Box16920
+    400002: Box16923
+    400004: Box16924
+    400006: Box16925
+    400008: Box16926
+    400010: Box16927
+    400012: Box16928
+    400014: Box16932
+    400016: Box16933
+    400018: Box16934
+    400020: Box16935
+    400022: Box16936
+    400024: Box16937
+    400026: Circle160
+    400028: Circle161
+    400030: Group18711
+    400032: Group18712
+    400034: Line2092
+    400036: Line2094
+    400038: //RootNode
+    400040: Object
+    400042: Object1256
+    400044: peregorodk
+    400046: steklo_1
+    400048: steklo_2
+    400050: steklo_dv0
+    400052: steklo_dve
+    2100000: 'Material #139'
+    2100002: 'Material #138'
+    2100004: 'Material #137'
+    2100006: 'Material #136'
+    2300000: Box16920
+    2300002: Box16923
+    2300004: Box16924
+    2300006: Box16925
+    2300008: Box16926
+    2300010: Box16927
+    2300012: Box16928
+    2300014: Box16932
+    2300016: Box16933
+    2300018: Box16934
+    2300020: Box16935
+    2300022: Box16936
+    2300024: Box16937
+    2300026: Circle160
+    2300028: Circle161
+    2300030: Group18711
+    2300032: Group18712
+    2300034: Line2092
+    2300036: Line2094
+    2300038: //RootNode
+    2300040: Object
+    2300042: Object1256
+    2300044: peregorodk
+    2300046: steklo_1
+    2300048: steklo_2
+    2300050: steklo_dv0
+    2300052: steklo_dve
+    3300000: Box16920
+    3300002: Box16923
+    3300004: Box16924
+    3300006: Box16925
+    3300008: Box16926
+    3300010: Box16927
+    3300012: Box16928
+    3300014: Box16932
+    3300016: Box16933
+    3300018: Box16934
+    3300020: Box16935
+    3300022: Box16936
+    3300024: Box16937
+    3300026: Circle160
+    3300028: Circle161
+    3300030: Group18711
+    3300032: Group18712
+    3300034: Line2092
+    3300036: Line2094
+    3300038: //RootNode
+    3300040: Object
+    3300042: Object1256
+    3300044: peregorodk
+    3300046: steklo_1
+    3300048: steklo_2
+    3300050: steklo_dv0
+    3300052: steklo_dve
+    4300000: Group18710
+    4300002: peregorodk
+    4300004: steklo_dv0
+    4300006: Object1256
+    4300008: Group18712
+    4300010: Box16937
+    4300012: Box16936
+    4300014: Box16935
+    4300016: Box16934
+    4300018: Box16933
+    4300020: Box16932
+    4300022: Circle161
+    4300024: steklo_1
+    4300026: Line2094
+    4300028: Object
+    4300030: Group18711
+    4300032: Box16928
+    4300034: Box16927
+    4300036: Box16926
+    4300038: Box16925
+    4300040: Box16924
+    4300042: Box16923
+    4300044: steklo_dve
+    4300046: Circle160
+    4300048: steklo_2
+    4300050: Line2092
+    4300052: Box16920
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

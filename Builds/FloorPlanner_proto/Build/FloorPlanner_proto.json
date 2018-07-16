@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebGlContainer",
+"dataUrl": "FloorPlanner_proto.data.unityweb",
+"asmCodeUrl": "FloorPlanner_proto.asm.code.unityweb",
+"asmMemoryUrl": "FloorPlanner_proto.asm.memory.unityweb",
+"asmFrameworkUrl": "FloorPlanner_proto.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "FloorPlanner_proto.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}

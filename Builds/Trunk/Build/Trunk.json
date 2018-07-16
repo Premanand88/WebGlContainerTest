@@ -1,0 +1,14 @@
+{
+"companyName": "Aatral",
+"productName": "Contanify",
+"dataUrl": "Trunk.data.unityweb",
+"asmCodeUrl": "Trunk.asm.code.unityweb",
+"asmMemoryUrl": "Trunk.asm.memory.unityweb",
+"asmFrameworkUrl": "Trunk.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Trunk.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
